@@ -4,6 +4,7 @@ body {
   font-family: sans-serif;
   overflow: hidden;
   font-weight: bold;
+  background-color: #0047AB;
 }
 #map {
   height: 200px;
@@ -45,7 +46,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #7d98a1;
   width: 100vw;
   z-index: 100;
   margin: 0;
