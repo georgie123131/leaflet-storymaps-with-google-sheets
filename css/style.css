@@ -3,6 +3,7 @@ body {
   margin: 0px;
   font-family: "Helvetica", sans-serif;
   overflow: hidden;
+  font-size: 4em;
 }
 
 #map {
