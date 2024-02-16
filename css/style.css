@@ -165,7 +165,18 @@ a.source:visited {
   line-height: 30px;
   text-align: center;
   padding: 10px;
-	@@ -166,7 +166,9 @@ a.source:visited {
+  max-width: 100%;
+}
+#logo img {
+  max-height: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+#header {
+  padding: 5px 0;
+  text-align: center;
+  color: #333;
+}
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
