@@ -1,8 +1,9 @@
 body {
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: sans-serif;
   overflow: hidden;
+  font-weight: bold;
 }
 #map {
   height: 200px;
@@ -181,10 +182,14 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  font-family: sans-serif;
+  font-weight: bold;
 }
 
 h2 {
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
+  font-family: sans-serif;
+  font-weight: bold;
 }
